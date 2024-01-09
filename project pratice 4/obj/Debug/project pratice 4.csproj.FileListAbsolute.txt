@@ -1,0 +1,7 @@
+C:\Users\nishc\Documents\pp4\project pratice 4\project pratice 4\bin\Debug\project pratice 4.exe.config
+C:\Users\nishc\Documents\pp4\project pratice 4\project pratice 4\bin\Debug\project pratice 4.exe
+C:\Users\nishc\Documents\pp4\project pratice 4\project pratice 4\bin\Debug\project pratice 4.pdb
+C:\Users\nishc\Documents\pp4\project pratice 4\project pratice 4\obj\Debug\project pratice 4.csproj.AssemblyReference.cache
+C:\Users\nishc\Documents\pp4\project pratice 4\project pratice 4\obj\Debug\project pratice 4.csproj.CoreCompileInputs.cache
+C:\Users\nishc\Documents\pp4\project pratice 4\project pratice 4\obj\Debug\project pratice 4.exe
+C:\Users\nishc\Documents\pp4\project pratice 4\project pratice 4\obj\Debug\project pratice 4.pdb
